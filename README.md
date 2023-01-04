@@ -10,7 +10,7 @@ Welcome to the Graph Theory GUI! This project is a graphical user interface (GUI
 To get started with the Graph Theory GUI, simply download the project and run the main script. Follow the on-screen prompts to select your desired graph and algorithm options.
 
 ## Requirements
-The Graph Theory GUI requires Python 3 and the following libraries to be installed on your machine:
+The Graph Theory GUI requires Python3 and the following libraries to be installed on your machine:
 
 - tkinter: for creating the GUI interface
 - numpy: for generating random graphs
