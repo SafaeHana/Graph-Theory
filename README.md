@@ -16,5 +16,5 @@ The Graph Theory GUI requires Python3 and the following libraries to be installe
 - numpy: for generating random graphs
 - networkx: for graph manipulation and analysis
 ## Credits
-The Graph Theory GUI was developed by [Safae Mazozi & Ouidad Oualhaj].
+The Graph Theory GUI was developed by [-Safae Mazozi - Ouidad Oualhaj].
 
